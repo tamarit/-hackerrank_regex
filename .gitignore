@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+detect-html-links/input2
+detect-html-links/input3
+detect-html-links/input4
