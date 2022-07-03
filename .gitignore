@@ -130,3 +130,7 @@ dmypy.json
 detect-html-links/input2
 detect-html-links/input3
 detect-html-links/input4
+detect-the-domain-name/input2
+ide-identifying-comments/input1
+detect-the-email-addresses/input1
+detect-the-domain-name/input0
